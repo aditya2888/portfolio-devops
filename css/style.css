@@ -384,3 +384,14 @@ footer .link-group a:hover{
     color: #fff;
     animation: pulse 3s infinite;
 }
+
+
+.card {
+  height: 100%;
+}
+
+.card-img-top {
+  height: 220px;
+  width: 100%;
+  object-fit: cover;
+}
